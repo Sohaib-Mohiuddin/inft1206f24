@@ -1,0 +1,21 @@
+body {
+    flex: auto;
+    text-align: center;
+    background-color: #d1d1d1;
+}
+
+h1 {
+    background: radial-gradient(#6f6af1, #ca6051);
+    border-bottom: 6px solid #838383;
+    padding: 10px;
+}
+
+#article {
+    border: 3px dashed #000000;
+    margin-bottom: 30px;
+}
+
+blockquote {
+    font-style: italic;
+    font-weight: bold;
+}
